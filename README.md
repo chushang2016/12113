@@ -1,5 +1,5 @@
 
-#  12113_springboot二手商品商城平台（源码+sql +论文） 
+#  12113_springboot二手商品商城平台
 
 #   项目资料包含：
 *   前后端源代码+SQL脚本
@@ -9,7 +9,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12113
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12113
 
 
 
